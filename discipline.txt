@@ -1,0 +1,3 @@
+10,Fizica,Preda
+11,Romana,Julieta
+12,Istorie,Atarcicov
